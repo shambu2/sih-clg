@@ -30,7 +30,7 @@ export function Header() {
             <a href="/pharmacy" className="text-foreground hover:text-primary transition-colors">
               Pharmacy
             </a>
-            <a href="/ai-chat" className="text-foreground hover:text-primary transition-colors">
+            <a href="/ai" className="text-foreground hover:text-primary transition-colors">
               AI Chat
             </a>
             <a href="/records" className="text-foreground hover:text-primary transition-colors">

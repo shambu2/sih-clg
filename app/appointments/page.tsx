@@ -5,6 +5,7 @@ const page = () => {
   return (
     <div>
         <AppointmentBooking/>
+        
     </div>
   )
 }
